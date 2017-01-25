@@ -1,1 +1,3 @@
-Open Source License mode is not decided yet, all rights are reserved.
+The OSI logo trademark is the trademark of Open Source Initiative.
+
+This software is licensed under an Open Source Initiative approved license.
