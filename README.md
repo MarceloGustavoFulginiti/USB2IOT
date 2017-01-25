@@ -1,5 +1,5 @@
 # USB2IOT
-USB Universal Slave Boards for Input-Output of Things
+USB Universal Slave Boards to Input-Output of Things
 
 This proyect consists of a portable Firmware Libraries in C/C++, cross-compiled to several commercial (and DIY) microcontroller based boards (mentioned as "Slave" board). On the other hand an API library (static and dynamic) is also provided for Windows and Linux for de "Host" machine that runs a real world access application.
 
@@ -29,6 +29,6 @@ Hosts:
 - PC x86 Arquitecture / Linux distributions.
 - ...
 
-The Development Environment used for the USB2_IOT is the other project posted here: the "ETBeans", "Embedded Multi Tool Chains for the NetBeans IDE". This project is basically a well structured, easy and documented procedures (and some plug-in) to incorporate in a NetBeans environment, diverse tool chains for each platform of Slave boards and Host machines/OSs. The NetBeans is an multiplatform-multilanguaje Open Source IDE, mantained by ORACLE. The tools chains are GCC/GNU, appropiate to each porting according to the microprocessor core.
+The Development Environment used for the USB2IOT is the other project posted here: the "ETBeans", "Embedded Multi Tool Chains for the NetBeans IDE". This project is basically a well structured, easy and documented procedures (and some plug-in) to incorporate in a NetBeans environment, diverse tool chains for each platform of Slave boards and Host machines/OSs. The NetBeans is an multiplatform-multilanguaje Open Source IDE, mantained by ORACLE. The tools chains are GCC/GNU, appropiate to each porting according to the microprocessor core.
 
-The binaries of USB2_IOT Host's side (Dynamic Libraries) can be used to develop any application with any IDE/Language, capable to perform dynamic calls to that libraries (.dll or .so).
+The binaries of USB2IOT Host's side (Dynamic Libraries) can be used to develop any application with any IDE/Language, capable to perform dynamic calls to that libraries (.dll or .so).
