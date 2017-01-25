@@ -1,5 +1,5 @@
-# USB2_IOT
-Universal Slave Boards USB Input/Output of Things
+# USB2IOT
+USB Universal Slave Boards for Input-Output of Things
 
 This proyect consists of a portable Firmware Libraries in C/C++, cross-compiled to several commercial (and DIY) microcontroller based boards (mentioned as "Slave" board). On the other hand an API library (static and dynamic) is also provided for Windows and Linux for de "Host" machine that runs a real world access application.
 
